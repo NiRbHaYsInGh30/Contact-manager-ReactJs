@@ -14,7 +14,7 @@ class AddContact extends React.Component {
         this.setState({name:"",email:""}); // reset the form
         console.log(this.state);
     }
-    
+    // skeleton from  here
     render(){
         return(
             <div className="ui main">
